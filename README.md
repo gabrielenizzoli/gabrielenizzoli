@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm currently working on:
+* [Apache Spark pipleine declarative engine](https://github.com/gabrielenizzoli/spark_engine) -> it includes yaml and logical plan editing
+* Restarting my [personal website/blog](https://www.nizzoli.net) 😄 -> using github pages for it
+
 <!--
 **gabrielenizzoli/gabrielenizzoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
